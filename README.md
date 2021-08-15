@@ -4,7 +4,7 @@
 
 This repo contains the official implementation of ReDNet and ReDNetPlus, a self-attention based semantic segmentation for natural disaster damage assessment.
 
-![alt text](https://github.com/tashchowdhury/ReDNetPlus/files/6988958/rednetplus-arch.pdf)
+![alt text](http://url/to/img.png)
 
 
 ## Dataset Details
